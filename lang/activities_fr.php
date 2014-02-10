@@ -430,3 +430,18 @@ ou cuisiner les vôtre, par exemple si l'Anglais n'est pas la langue natale de v
     duration:  "90-120",
     suitable: "iteration, release, smallGroups"
 };
+all_activities[27] = {
+    phase:     5,
+    name:      "Faites un tour",
+    summary:   "Rendez-vous dans le parc le plus proche et promenez vous en discutant",
+    desc:      "Il fait beau dehors ? Alors pourquoi rester cloîtré à l'intérieur, sachant que la marche \
+    oxygène le cerveau et le remplit d'idées 'sortant des sentiers battus'. \
+    Sortez et effectuez une promenade dans le parc le plus proche. La discussion va naturellement \
+    tourner autour du travail. C'est une pause sympathique dans la routine lorsque les choses se passent \
+    relativement bien et que vous n'avez pas besoin de documentation visuelle pour faciliter la discussion. \
+    Les équipes matures peuvent facilement exposer des idées et arriver à un consensus même dans une \
+    configuration si informelle.",
+    source:    source_findingMarbles,
+    duration:  "60-90",
+    suitable: "iteration, release, smallGroups, smoothSailing, mature"
+};
