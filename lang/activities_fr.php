@@ -445,3 +445,22 @@ all_activities[27] = {
     duration:  "60-90",
     suitable: "iteration, release, smallGroups, smoothSailing, mature"
 };
+all_activities[28] = {
+    phase:     3,
+    name:      "Cercles &amp; Soupe / Cercle d'influence",
+    summary:   "Créez des actions basées sur le niveau de contrôle qu'a l'équipe sur leur réalisation",
+    desc:      "Préparez un tableau avec 3 cercles concentriques, chacun suffisamment \
+    grand pour pouvoir y coller des post-its. Nommez les 'L'équipe dirige - Action directe', \
+    'L'équipe influence - Action persuasive / de recommandation' et \
+    'La soupe - Action en réponse', respectivement du cercle intérieur vers extérieur. \
+    ('La soupe' indique le système plus large dans lequel l'équipe est implantée.) \
+    Reprenez vos idées de la phase précédente et placez les dans le cercle approprié.<br> \
+    Les participants écrivent par paire des actions possibles. Encouragez les à se \
+    concentrer sur les problèmes de leur cercle d'influence. Les paires affichent leurs \
+    plans d'action à côté de leurs problèmes respectifs et les lisent à haute voix. \
+    Décidez de quels plans essayer (par discussion, vote à la majorité, dot voting, ...)",
+    source:    "<a href='http://www.futureworksconsulting.com/blog/2010/07/26/circles-and-soup/'>Diana Larsen</a> \
+    qui l'a adapté de 'Les Sept Habitudes des gens efficaces' de Stephen Covey et \
+    '<a href='http://www.ayeconference.com/wiki/scribble.cgi?read=CirclesOfControlInfluenceAndConcern'>CircleofInfluenceAndConcern</a>' par Jim Bullock",
+    suitable: "iteration, release, project, stuck, immature"
+};
