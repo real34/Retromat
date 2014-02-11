@@ -464,3 +464,15 @@ all_activities[28] = {
     '<a href='http://www.ayeconference.com/wiki/scribble.cgi?read=CirclesOfControlInfluenceAndConcern'>CircleofInfluenceAndConcern</a>' par Jim Bullock",
     suitable: "iteration, release, project, stuck, immature"
 };
+all_activities[29] = {
+    phase:     5,
+    name:      "Feuilles de dialogue",
+    summary:   "Une approche structurée de discussion",
+    desc:      "Une feuille de dialogue ressemble un peu à un plateau de jeu de société. \
+    Il existe <a href='http://www.softwarestrategy.co.uk/dlgsheets/available.html'>plusieurs feuilles différentes</a>. \
+    Choisissez en une, imprimez la aussi grand que possible (de préférence au format A1) \
+    et suivez les instructions.",
+    source:    "<a href='http://www.softwarestrategy.co.uk/dlgsheets/available.html'>Allen Kelly - Software Strategy</a>",
+    duration:  "90-120",
+    suitable: "iteration, release, project"
+};
